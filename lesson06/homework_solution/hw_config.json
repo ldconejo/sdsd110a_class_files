@@ -1,0 +1,6 @@
+{
+    "app_name": "StudentApp",
+    "debug": false,
+    "max_connections": 10,
+    "timeout": 60
+}
